@@ -141,35 +141,12 @@ Idea con la que competimos en **Red Bull Basement 2024**, donde llegamos al **to
 
 ## 📜 Certificaciones
 
-Lista completa y credenciales en mi [LinkedIn](https://www.linkedin.com/in/j%C3%A9ronimo-di-leo-muntaner/).
-
-**Ciberseguridad**
-- Conviértete en especialista en seguridad de la información, LinkedIn (ago. 2023)
-- The Complete Nmap Ethical Hacking Course: Network Security Assessment, StationX (jul. 2021)
-- Introduction to Cybersecurity, Cisco (ene. 2021)
-- Protege tu Negocio: Ciberseguridad en el Teletrabajo, INCIBE (dic. 2020)
-- Volume 2: Network Security, StationX (jul. 2020)
-- Volume 1: Hackers Exposed, StationX (feb. 2020)
-- Ciberseguridad en línea, Udemy (dic. 2019)
-
-**Programación y datos**
-- Análisis de Datos en Python, IEEE-ITBA Student Branch (oct. 2024)
-- Conviértete en especialista en desarrollo Python, LinkedIn (jul. 2023)
-
-**Inglés**
-- GESE Grade 8 with Merit, Trinity College London (jul. 2019)
-- IGCSE First Language English, Business Studies, History, Cambridge (nov. 2019)
-- IGCSE Environmental Management, Geography, First Language Spanish, Cambridge (nov. 2018)
+Mis certificaciones en ciberseguridad, Python y análisis de datos, e inglés están en mi [LinkedIn](https://www.linkedin.com/in/j%C3%A9ronimo-di-leo-muntaner/).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📊 Estadísticas de GitHub
+## 🗣️ Idiomas
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JeroDiLeo&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/JeroDiLeo)
-[![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroDiLeo&theme=dark&layout=compact)](https://github.com/JeroDiLeo)
-
-[![Racha](https://streak-stats.demolab.com?user=JeroDiLeo&theme=dark)](https://github.com/JeroDiLeo)
-
-## 📈 Gráfico de actividad
-
-[![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=JeroDiLeo&theme=high-contrast&hide_border=true&bg_color=0A0A0A&color=FF00FF&line=00FFF7&point=39FF14&title_color=FF00FF)](https://github.com/JeroDiLeo)
+- 🇦🇷 **Español:** nativo
+- 🇬🇧 **Inglés:** avanzado
+- 🇮🇹 **Italiano:** aprendiendo

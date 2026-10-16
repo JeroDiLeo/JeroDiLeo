@@ -141,35 +141,12 @@ The idea we took to **Red Bull Basement 2024**, where we reached the **top 10 in
 
 ## 📜 Certifications
 
-Full list and credentials on my [LinkedIn](https://www.linkedin.com/in/j%C3%A9ronimo-di-leo-muntaner/).
-
-**Cybersecurity**
-- Become an Information Security Specialist, LinkedIn (Aug 2023)
-- The Complete Nmap Ethical Hacking Course: Network Security Assessment, StationX (Jul 2021)
-- Introduction to Cybersecurity, Cisco (Jan 2021)
-- Protect Your Business: Cybersecurity in Remote Work, INCIBE (Dec 2020)
-- Volume 2: Network Security, StationX (Jul 2020)
-- Volume 1: Hackers Exposed, StationX (Feb 2020)
-- Online Cybersecurity, Udemy (Dec 2019)
-
-**Programming and data**
-- Data Analysis in Python, IEEE-ITBA Student Branch (Oct 2024)
-- Become a Python Development Specialist, LinkedIn (Jul 2023)
-
-**English**
-- GESE Grade 8 with Merit, Trinity College London (Jul 2019)
-- IGCSE First Language English, Business Studies, History, Cambridge (Nov 2019)
-- IGCSE Environmental Management, Geography, First Language Spanish, Cambridge (Nov 2018)
+My certifications in cybersecurity, Python and data analysis, and English are listed on my [LinkedIn](https://www.linkedin.com/in/j%C3%A9ronimo-di-leo-muntaner/).
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📊 GitHub stats
+## 🗣️ Languages
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=JeroDiLeo&theme=dark&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/JeroDiLeo)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroDiLeo&theme=dark&layout=compact)](https://github.com/JeroDiLeo)
-
-[![Streak](https://streak-stats.demolab.com?user=JeroDiLeo&theme=dark)](https://github.com/JeroDiLeo)
-
-## 📈 Activity graph
-
-[![Activity](https://github-readme-activity-graph.vercel.app/graph?username=JeroDiLeo&theme=high-contrast&hide_border=true&bg_color=0A0A0A&color=FF00FF&line=00FFF7&point=39FF14&title_color=FF00FF)](https://github.com/JeroDiLeo)
+- 🇦🇷 **Spanish:** native
+- 🇬🇧 **English:** advanced
+- 🇮🇹 **Italian:** learning
